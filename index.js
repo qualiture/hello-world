@@ -1,7 +1,7 @@
 module.exports = class HelloWorld {
 
     greeting() {
-        return "Hello World";
+        return "Hello, Awesome World";
     }
 
     personalizedGreeting(name) {
