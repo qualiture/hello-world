@@ -1,0 +1,19 @@
+{
+  "name": "@qualiture/hello-world",
+  "version": "1.0.1",
+  "description": "Hello World package, for npm demo purposes only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qualiture/hello-world.git"
+  },
+  "author": "qualiture",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qualiture/hello-world/issues"
+  },
+  "homepage": "https://github.com/qualiture/hello-world#readme"
+}
