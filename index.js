@@ -4,4 +4,8 @@ module.exports = class HelloWorld {
         return "Hello World";
     }
 
+    personalizedGreeting(name) {
+        return `Hello, dear ${name}`;
+    }
+
 }
